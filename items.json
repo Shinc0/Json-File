@@ -2,7 +2,7 @@
   "items": [
     {
       "title": "Titre",
-      "description": "description",
+      "description": "Ici c'est ma description",
       "price": 5,
       "picture": "img/bg.jpg"
     }
