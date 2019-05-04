@@ -1,10 +1,11 @@
 {
- 
-  "items" : [
+  "items": [
     {
-      "title" : "Titre",
-      "description" : "Description",
-      "price" : 5,
- 
+      "title": "Titre",
+      "description": "description",
+      "price": 5,
+      "picture": "img/bg.jpg"
     }
+  ]
+
 }
