@@ -2,8 +2,20 @@
   "items": [
     {
       "title": "Titre",
-      "description": "Ici c'est ma description",
-      "price": 5,
+      "description": "Ici c'est ma description1",
+      "price": 1,
+      "picture": "img/bg.jpg"
+    },
+    {
+      "title": "Titre2",
+      "description": "Ici c'est ma description2",
+      "price": 2,
+      "picture": "img/bg.jpg"
+    },
+    {
+      "title": "Titre3",
+      "description": "Ici c'est ma description3",
+      "price": 3,
       "picture": "img/bg.jpg"
     }
   ]
